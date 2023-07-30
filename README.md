@@ -83,7 +83,7 @@ os diferentes elementos presentes nos dados. O esquema ficou assim:
 
 ## Visualização do Projeto em Python e Power BI 
 
- 1. Python
+ 1. Python Power BI
 
  ```bash
 
@@ -93,7 +93,7 @@ os diferentes elementos presentes nos dados. O esquema ficou assim:
   Obs: O Power BI só vai funcionar somente na versões Windows 7, 8, 8.1, 10 ou 11
 
 ```
- 2. Power BI
+ 2. Python
     
 ```bash
 
